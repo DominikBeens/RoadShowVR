@@ -9,7 +9,7 @@ public class SetTextOnTrigger : MonoBehaviour
     [SerializeField]
     private Text textToChange;
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
         if (other.tag == "Player")
         {
