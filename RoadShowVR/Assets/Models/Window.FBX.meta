@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 2b4341d484c2c0a498dc23087dfa18cb
-timeCreated: 1522702968
+guid: d4b9c3db55561414186116361dbc6cc7
+timeCreated: 1522867063
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: 'Material #14'
-    2100002: 'Material #13'
+    2100000: 'Material #15'
+    2100002: 'Material #14'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Beamer
+    4300000: Window
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -43,7 +43,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1.7
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
