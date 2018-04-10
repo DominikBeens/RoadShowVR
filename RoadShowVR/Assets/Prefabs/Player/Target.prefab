@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 224610421069594640}
   - component: {fileID: 223108646792990112}
   - component: {fileID: 114721792150802854}
-  m_Layer: 2
+  m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54,7 +54,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4552167215168926}
   - component: {fileID: 114931106459918240}
-  m_Layer: 2
+  m_Layer: 5
   m_Name: TeleportDescription
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ GameObject:
   - component: {fileID: 222212623677851374}
   - component: {fileID: 114301720536133590}
   - component: {fileID: 114780545915367674}
-  m_Layer: 2
+  m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
