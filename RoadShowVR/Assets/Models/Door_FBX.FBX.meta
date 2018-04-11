@@ -1,13 +1,18 @@
 fileFormatVersion: 2
-guid: 4abbffd02d2aaf447bb928e2581e3ca6
-timeCreated: 1522090106
+guid: 55532baa05f864a47b0d4333a89901a0
+timeCreated: 1523448977
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: White
+    2100002: Black
+    2100004: 'Material #12 Slot #5'
+    2100006: 'Material #12 Slot #4'
+    2100008: 'Material #12 Slot #6'
+    2100010: 'Material #12 Slot #3'
     2300000: //RootNode
     3300000: //RootNode
     4300000: Door

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 520178c43d049b247a5b4ac10c8a8dfa
-timeCreated: 1522843566
+guid: b179b323521e94d488cf054e3e2cbc1e
+timeCreated: 1523447661
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -17,8 +17,8 @@ ModelImporter:
     400006: Door_Small_Right001
     400008: Window_Wall
     400010: //RootNode
-    2100000: 'Material #13'
-    2100002: 'Material #14'
+    2100000: 'Material #14'
+    2100002: 'Material #13'
     2100004: 'Material #15'
     2300000: Door_Small_Left
     2300002: Door_Small_Left001
@@ -74,7 +74,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
